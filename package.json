@@ -1,0 +1,21 @@
+{
+  "name": "he-thong-thiet-ke-nhieu-mau",
+  "version": "1.0.0",
+  "description": "Hệ thống thiết kế nhiều màu cho ứng dụng tại Việt Nam.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "prop-types": "^15.7.2"
+  },
+  "devDependencies": {
+    "react-scripts": "4.0.3"
+  },
+  "license": "MIT"
+}
