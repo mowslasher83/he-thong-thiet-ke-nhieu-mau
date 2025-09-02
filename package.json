@@ -1,7 +1,7 @@
 {
   "name": "he-thong-thiet-ke-nhieu-mau",
   "version": "1.0.0",
-  "description": "Hệ thống thiết kế nhiều màu cho ứng dụng tại Việt Nam.",
+  "description": "Hệ thống thiết kế màu sắc ứng dụng.",
   "main": "src/index.js",
   "scripts": {
     "start": "react-scripts start",
